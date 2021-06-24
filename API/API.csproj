@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.4" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.4" />
+  </ItemGroup>
+	
+	<ItemGroup>
+		<None Update="client\build\**">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+	
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Data\mockdata.json" />
+    <_ContentIncludedByDefault Remove="Data\mockdataWOStatuses.json" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>c961f9e2-4f46-46fc-a7f4-259718587add</UserSecretsId>
+  </PropertyGroup>
+
+
+</Project>

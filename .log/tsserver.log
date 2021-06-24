@@ -1,0 +1,44 @@
+Info 0    [16:27:08.165] Starting TS Server
+Info 1    [16:27:08.165] Version: 4.3.2
+Info 2    [16:27:08.165] Arguments: /home/stanzu10/.nvm/versions/node/v14.16.1/bin/node /home/stanzu10/.nvm/versions/node/v14.16.1/bin/tsserver --logFile /home/stanzu10/Dev/git/twitter/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/8902d32e708068e4ee7ede4726d7d5c5/tscancellation*
+Info 3    [16:27:08.165] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [16:27:08.165] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [16:27:08.177] Search path: /home/stanzu10/Dev/git/twitter/API/Client/src/MainPageComponents
+Info 6    [16:27:08.178] For info: /home/stanzu10/Dev/git/twitter/API/Client/src/MainPageComponents/RandomTweetFeed.js :: No config files found.
+Info 7    [16:27:08.181] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [16:27:10.941] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 2759.2495980001986ms
+Info 9    [16:27:10.941] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [16:27:10.941] 	Files (203)
+
+Info 11   [16:27:10.941] -----------------------------------------------
+Info 12   [16:27:10.974] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 13   [16:27:11.451] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true Elapsed: 476.8336630000267ms
+Info 14   [16:27:11.451] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 15   [16:27:11.451] 	Files (183)
+
+Info 16   [16:27:11.451] -----------------------------------------------
+Info 17   [16:27:15.152] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 18   [16:27:15.375] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 223.04382900008932ms
+Info 19   [16:27:15.375] Project '/dev/null/inferredProject1*' (Inferred)
+Info 20   [16:27:15.375] 	Files (205)
+
+Info 21   [16:27:15.376] -----------------------------------------------
+Info 22   [16:27:15.376] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 23   [16:27:15.376] 	Files (183)
+
+Info 24   [16:27:15.376] -----------------------------------------------
+Info 25   [16:27:15.764] DirectoryWatcher:: Triggered with /home/stanzu10/.cache/typescript/4.3/node_modules :: WatchInfo: /home/stanzu10/.cache/typescript/4.3/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 26   [16:27:15.765] Elapsed:: 0.30071900016628206ms DirectoryWatcher:: Triggered with /home/stanzu10/.cache/typescript/4.3/node_modules :: WatchInfo: /home/stanzu10/.cache/typescript/4.3/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 27   [16:27:15.772] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 28   [16:27:15.832] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true Elapsed: 59.30581000004895ms
+Info 29   [16:27:15.832] Project '/dev/null/inferredProject1*' (Inferred)
+Info 30   [16:27:15.832] 	Files (205)
+
+Info 31   [16:27:15.832] -----------------------------------------------
+Info 32   [16:27:15.832] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 33   [16:27:15.832] 	Files (183)
+
+Info 34   [16:27:15.832] -----------------------------------------------
+Info 35   [16:27:18.273] Before ensureProjectForOpenFiles:
+Info 36   [16:27:18.273] After ensureProjectForOpenFiles:
+Info 37   [16:27:18.274] got projects updated in background, updating diagnostics for /home/stanzu10/Dev/git/twitter/API/Client/src/MainPageComponents/RandomTweetFeed.js
